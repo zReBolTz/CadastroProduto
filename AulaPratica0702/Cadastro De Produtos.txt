@@ -1,0 +1,1 @@
+Produto X, Nome = 1, Categoria = 55, Marca = 0000, Preço= 1.0
